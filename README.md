@@ -1,10 +1,10 @@
 # Hi, I'm Mugabi Dunset 👋
 
-![Typing animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=1769FF&center=true&vCenter=true&width=600&height=50&lines=Graphic+Designer;UI%2FUX+Designer;System+Developer;Based+in+Uganda+%F0%9F%87%BA%F0%9F%87%AC;Open+to+freelance+work)
+![Typing animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&height=50&lines=Graphic+Designer;UI%2FUX+Designer;System+Developer;Based+in+Uganda+%F0%9F%87%BA%F0%9F%87%AC;Open+to+freelance+work)
 
-[![Behance](https://img.shields.io/badge/-Behance-1769FF?logo=behance&logoColor=white)](https://www.behance.net/mugabidansey)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mugabi-dunset-696808397/)
-[![Email](https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white)](mailto:mugabidansey2@gmail.com)
+[![Behance](https://img.shields.io/badge/-Behance-FFD700?logo=behance&logoColor=black)](https://www.behance.net/mugabidansey)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-FFD700?logo=linkedin&logoColor=black)](https://www.linkedin.com/in/mugabi-dunset-696808397/)
+[![Email](https://img.shields.io/badge/-Email-FFD700?logo=gmail&logoColor=black)](mailto:mugabidansey2@gmail.com)
 
 I design how things look, shape how they feel to use, and build the systems that make them work.
 
